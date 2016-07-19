@@ -37,7 +37,7 @@ package
 				Main.progress.gotoAndStop(int(ratio*10));
 				if(ratio == 1 ){
 					Main.clear();
-					
+					//你好
 					init();
 				}
 			});
