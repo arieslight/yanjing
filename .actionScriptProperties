@@ -35,6 +35,10 @@
       </libraryPathEntry>
       <libraryPathEntry kind="3" linkType="1" path="C:/Users/FAN/Desktop/lib/greensock.swc" useDefaultLinkType="false"/>
       <libraryPathEntry kind="3" linkType="1" path="C:/Users/FAN/Desktop/lib/startProgress.swc" useDefaultLinkType="false"/>
+      <libraryPathEntry kind="1" linkType="1" path="${FLEXUNIT_LIB_LOCATION}/version4libs/Common"/>
+      <libraryPathEntry kind="1" linkType="1" path="${FLEXUNIT_LIB_LOCATION}/version4libs/ASProject"/>
+      <libraryPathEntry kind="1" linkType="1" path="${FLEXUNIT_LIB_LOCATION}/version4libs/ASProject_Extended"/>
+      <libraryPathEntry kind="1" linkType="1" path="${FLEXUNIT_LOCALE_LOCATION}"/>
     </libraryPath>
     <sourceAttachmentPath/>
   </compiler>
@@ -52,6 +56,10 @@
       <airSettings airCertificatePath="" airTimestamp="true" anePathSet="false" version="1">
         <airExcludes/>
         <anePaths/>
+        <newLaunchParams/>
+        <modifiedLaunchParams/>
+        <newPackagingParams/>
+        <modifiedPackagingParams/>
       </airSettings>
       <actionScriptSettings version="1"/>
     </buildTarget>
