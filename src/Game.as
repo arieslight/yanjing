@@ -24,7 +24,7 @@ package
 		}
 		
 		private function onAdded():void
-		{
+		{	
 			assetManager = new AssetManager();
 			assetManager.verbose=true;
 			appDir = File.applicationDirectory;
@@ -37,7 +37,6 @@ package
 				Main.progress.gotoAndStop(int(ratio*10));
 				if(ratio == 1 ){
 					Main.clear();
-					//你好
 					init();
 				}
 			});
